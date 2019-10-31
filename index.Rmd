@@ -6,7 +6,7 @@ library(knitr)
 opts_chunk$set(out.width = "900px", dpi = 300, message = FALSE, warning = FALSE)
 ```
 
-Data and [R](https://www.r-project.org/) code to recreate the text analysis and graphics in this [Oct. 31, 2019 BuzzFeed News post](https://www.buzzfeednews.com/article/) on the social media alerting service offered to school districts by Social Sentinel, which monitors for potential threats to school safety. Supporting files are in [this GitHub repository](https://github.com/BuzzFeedNews/2019-10-social-sentinel).
+Data and [R](https://www.r-project.org/) code to recreate the text analysis and graphics in this [Oct. 31, 2019 BuzzFeed News post](https://www.buzzfeednews.com/article/lamvo/social-sentinel-school-officials-shootings-flag-social-media) on the social media alerting service offered to school districts by Social Sentinel, which monitors for potential threats to school safety. Supporting files are in [this GitHub repository](https://github.com/BuzzFeedNews/2019-10-social-sentinel).
 
 ### Timeline of deaths in school shootings and spending on Sentinel
 
